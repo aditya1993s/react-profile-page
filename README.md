@@ -1,8 +1,8 @@
 # react-profile-page
 
-React profile page
+## Description
 
-This starter project has below dependencies
+This is a sample project for React Profile page template
 
 1. React bootstrap
 2. React router dom
@@ -14,3 +14,12 @@ This starter project has below dependencies
 8. React alerts
 9. Styled components
 10. Tailwind CSS
+
+## Installation and running the project
+
+Install all the dependecies - npm install
+Launch the project in local - npm run dev
+
+## Sample profile page image
+
+![React profile page template](./resources/profile-page-image.png)

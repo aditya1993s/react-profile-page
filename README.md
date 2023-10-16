@@ -18,6 +18,7 @@ This is a sample project for React Profile page template
 ## Installation and running the project
 
 Install all the dependecies - npm install
+
 Launch the project in local - npm run dev
 
 ## Sample profile page image
